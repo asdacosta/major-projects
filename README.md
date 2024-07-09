@@ -7,4 +7,3 @@
 * [Weather Forecast](https://github.com/asdacosta/weather-forecast)
 * [Tic-tac-toe](https://github.com/asdacosta/tic-tac-toe-game)
 * [Todo App](https://github.com/asdacosta/todo-list)
-* [Calculator](https://github.com/asdacosta/calculator)
