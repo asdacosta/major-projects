@@ -1,5 +1,6 @@
 # Major Projects
 * [Portfolio](https://github.com/asdacosta/portfolio)
+* [Digital Agency] (https://github.com/asdacosta/digiAirX)
 * [Resume App](https://github.com/asdacosta/resume)
 * [Shopping Cart](https://github.com/asdacosta/shopping-cart)
 * [Battleship](https://github.com/asdacosta/battleship)
