@@ -7,6 +7,7 @@
 * [Shopping Cart](https://github.com/asdacosta/shopping-cart)
 * [Battleship](https://github.com/asdacosta/battleship)
 * [Memory Card](https://github.com/asdacosta/memory-card)
+* [Restaurant](https://github.com/asdacosta/digiresttemplate)
 * [Weather Forecast](https://github.com/asdacosta/weather-forecast)
 * [Tic-tac-toe](https://github.com/asdacosta/tic-tac-toe-game)
 * [Todo App](https://github.com/asdacosta/todo-list)
